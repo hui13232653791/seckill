@@ -2,7 +2,6 @@
 
 #### 介绍
 秒杀系统
-
 ●主要技术：SpringBoot、Lombok、MybatisPlus、Redis、RabbitMQ、MySQL、Thymeleaf 等。
 ●项目描述：该项目实现，分布式Session、秒杀功能、压力测试、页面优化、服务优化、接口安全等。
 
